@@ -1,0 +1,12 @@
+body {
+	background-image: url("../imagens/fundo.png");
+	padding: 10px 10px 10px 10px;
+	margin: 2% 10% 10% 10%;
+}
+h1, h2{
+	color: limegreen;
+}
+
+blockquote{
+	font-style: italic
+}
